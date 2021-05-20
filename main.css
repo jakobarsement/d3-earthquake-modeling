@@ -1,0 +1,20 @@
+body {
+	margin-top: 35px;
+	padding: 0;
+}
+
+div.tooltip {
+	position: absolute;
+	text-align: left;
+	width: 50px;
+	height: 35px;
+	padding: 2px;
+	font: 12px Helvetica, sans-serif;
+	background: lightcoral;
+	border: 0px;
+	border-radius: 6px;
+}
+
+.text1 {
+	color: rgb(16, 16, 99);
+}
